@@ -1,0 +1,260 @@
+23.03. 17:12:07.990    ***Logfile for YR Mod client***
+23.03. 17:12:07.992    Client version: 2.12.0.0
+23.03. 17:12:07.992    Loading settings.
+23.03. 17:12:08.030    Failed to load a translation file. Neither C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Resources\Translations\en\ThemeDefault\Translation.ini nor C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Resources\Translations\en\Translation.ini exist.
+23.03. 17:12:08.030    Loaded translation: English
+23.03. 17:12:08.242    Initializing updater.
+23.03. 17:12:08.264    Updater: Initializing updater.
+23.03. 17:12:08.277    Warning: No download mirrors found in updater config file or the built-in game info.
+23.03. 17:12:08.278    Updater: Update mirror count: 0
+23.03. 17:12:08.278    Updater: Running from: clientdx.exe
+23.03. 17:12:08.279    OSDescription: Microsoft Windows 10.0.26100 
+23.03. 17:12:08.279    OSArchitecture: X64
+23.03. 17:12:08.280    ProcessArchitecture: X64
+23.03. 17:12:08.280    FrameworkDescription: .NET Framework 4.8.9290.0
+23.03. 17:12:08.280    Selected OS profile: WIN810
+23.03. 17:12:08.280    Current culture: en-US
+23.03. 17:12:09.421    Removing partial custom component downloads.
+23.03. 17:12:09.422    Checking for the existence of FinalSun.ini.
+23.03. 17:12:09.422    FinalSun settings file exists.
+23.03. 17:12:09.440    Hardware info: AMD Ryzen 7 7735HS with Radeon Graphics (8 cores) | Video controller: AMD Radeon(TM) Graphics Video controller: NVIDIA GeForce RTX 4050 Laptop GPU | Total physical memory: 16GB
+23.03. 17:12:09.454    Writing installation path to the Windows registry.
+23.03. 17:12:09.470    Starting background processing of INI files.
+23.03. 17:12:09.471    /INI/Base does not exist, skipping background processing of INI files.
+23.03. 17:12:09.920    Initializing GameClass.
+23.03. 17:12:10.178    InitGraphicsMode: 1280x720
+23.03. 17:12:11.327    Loading maps from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\INI\MPMaps.ini.
+23.03. 17:12:13.898    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.900    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.904    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.906    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.908    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.909    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.911    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.913    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.927    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.928    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:13.930    AssetLoader.LoadSound: Sound not found! MainMenu/button.wav
+23.03. 17:12:14.505    Reading statistics.
+23.03. 17:12:14.922    Attempting to parse INI/Battle.ini to populate mission list.
+23.03. 17:12:14.938    Finished parsing INI/Battle.ini.
+23.03. 17:12:14.964    C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Resources\CampaignTagSelector.ini: Base INI file not found! C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Resources\ThemeDefault\GenericWindow.ini
+23.03. 17:12:15.489    AssetLoader.LoadSound: Sound not found! getready.wav
+23.03. 17:12:15.588    AssetLoader.LoadSound: Sound not found! getready.wav
+23.03. 17:12:15.588    AssetLoader.LoadSound: Sound not found! return.wav
+23.03. 17:12:15.867    AssetLoader.LoadSound: Sound not found! getready.wav
+23.03. 17:12:15.868    AssetLoader.LoadSound: Sound not found! return.wav
+23.03. 17:12:15.887    AssetLoader.LoadSound: Sound not found! getready.wav
+23.03. 17:12:39.056    Writing spawn.ini
+23.03. 17:12:39.066    Writing map.
+23.03. 17:12:39.067    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:12:39.119    About to launch main game executable.
+23.03. 17:12:39.133    Writing settings INI.
+23.03. 17:12:39.135    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:12:39.135    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:12:39.211    GameProcessLogic: Process started.
+23.03. 17:12:39.228    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:13:30.312    GameProcessLogic: Process exited.
+23.03. 17:13:30.492    GameProcessExited: Parsing statistics.
+23.03. 17:13:30.492    Parsing game statistics.
+23.03. 17:13:30.496    Attempting to read statistics from debug/debug.log
+23.03. 17:13:30.496    GameProcessExited: Adding match to statistics.
+23.03. 17:13:30.497    Skipping adding match to statistics because game only had one player.
+23.03. 17:13:58.857    Writing spawn.ini
+23.03. 17:13:58.859    Writing map.
+23.03. 17:13:58.859    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:13:58.875    About to launch main game executable.
+23.03. 17:13:58.879    Writing settings INI.
+23.03. 17:13:58.880    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:13:58.880    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:13:58.886    GameProcessLogic: Process started.
+23.03. 17:13:58.902    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:16:37.284    GameProcessLogic: Process exited.
+23.03. 17:16:37.487    GameProcessExited: Parsing statistics.
+23.03. 17:16:37.487    Parsing game statistics.
+23.03. 17:16:37.489    Attempting to read statistics from debug/debug.log
+23.03. 17:16:37.489    GameProcessExited: Adding match to statistics.
+23.03. 17:16:37.489    Skipping adding match to statistics because game only had one player.
+23.03. 17:17:37.092    Writing spawn.ini
+23.03. 17:17:37.094    Writing map.
+23.03. 17:17:37.094    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:17:37.104    About to launch main game executable.
+23.03. 17:17:37.109    Writing settings INI.
+23.03. 17:17:37.110    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:17:37.110    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:17:37.116    GameProcessLogic: Process started.
+23.03. 17:17:37.128    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:18:53.305    GameProcessLogic: Process exited.
+23.03. 17:18:53.353    GameProcessExited: Parsing statistics.
+23.03. 17:18:53.353    Parsing game statistics.
+23.03. 17:18:53.353    Attempting to read statistics from debug/debug.log
+23.03. 17:18:53.354    GameProcessExited: Adding match to statistics.
+23.03. 17:18:53.354    Skipping adding match to statistics because game only had one player.
+23.03. 17:20:48.818    Writing spawn.ini
+23.03. 17:20:48.820    Writing map.
+23.03. 17:20:48.820    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:20:48.834    About to launch main game executable.
+23.03. 17:20:48.839    Writing settings INI.
+23.03. 17:20:48.840    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:20:48.840    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:20:48.845    GameProcessLogic: Process started.
+23.03. 17:20:48.858    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:21:38.352    GameProcessLogic: Process exited.
+23.03. 17:21:38.473    GameProcessExited: Parsing statistics.
+23.03. 17:21:38.473    Parsing game statistics.
+23.03. 17:21:38.474    Attempting to read statistics from debug/debug.log
+23.03. 17:21:38.474    GameProcessExited: Adding match to statistics.
+23.03. 17:21:38.475    Skipping adding match to statistics because game only had one player.
+23.03. 17:21:39.772    Writing spawn.ini
+23.03. 17:21:39.774    Writing map.
+23.03. 17:21:39.774    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:21:39.787    About to launch main game executable.
+23.03. 17:21:39.792    Writing settings INI.
+23.03. 17:21:39.793    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:21:39.793    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:21:39.801    GameProcessLogic: Process started.
+23.03. 17:21:39.814    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:22:33.575    GameProcessLogic: Process exited.
+23.03. 17:22:33.622    GameProcessExited: Parsing statistics.
+23.03. 17:22:33.622    Parsing game statistics.
+23.03. 17:22:33.622    Attempting to read statistics from debug/debug.log
+23.03. 17:22:33.634    GameProcessExited: Adding match to statistics.
+23.03. 17:22:33.635    Skipping adding match to statistics because game only had one player.
+23.03. 17:23:24.850    Writing spawn.ini
+23.03. 17:23:24.851    Writing map.
+23.03. 17:23:24.851    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:23:24.861    About to launch main game executable.
+23.03. 17:23:24.866    Writing settings INI.
+23.03. 17:23:24.868    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:23:24.868    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:23:24.874    GameProcessLogic: Process started.
+23.03. 17:23:24.887    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:23:56.551    GameProcessLogic: Process exited.
+23.03. 17:23:56.710    GameProcessExited: Parsing statistics.
+23.03. 17:23:56.710    Parsing game statistics.
+23.03. 17:23:56.711    Attempting to read statistics from debug/debug.log
+23.03. 17:23:56.711    GameProcessExited: Adding match to statistics.
+23.03. 17:23:56.711    Skipping adding match to statistics because game only had one player.
+23.03. 17:23:57.905    Writing spawn.ini
+23.03. 17:23:57.907    Writing map.
+23.03. 17:23:57.907    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:23:57.917    About to launch main game executable.
+23.03. 17:23:57.923    Writing settings INI.
+23.03. 17:23:57.924    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:23:57.924    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:23:57.931    GameProcessLogic: Process started.
+23.03. 17:23:57.944    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:25:08.640    GameProcessLogic: Process exited.
+23.03. 17:25:08.759    GameProcessExited: Parsing statistics.
+23.03. 17:25:08.760    Parsing game statistics.
+23.03. 17:25:08.760    Attempting to read statistics from debug/debug.log
+23.03. 17:25:08.761    GameProcessExited: Adding match to statistics.
+23.03. 17:25:08.761    Skipping adding match to statistics because game only had one player.
+23.03. 17:25:10.075    Writing spawn.ini
+23.03. 17:25:10.077    Writing map.
+23.03. 17:25:10.077    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:25:10.087    About to launch main game executable.
+23.03. 17:25:10.091    Writing settings INI.
+23.03. 17:25:10.092    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:25:10.093    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:25:10.099    GameProcessLogic: Process started.
+23.03. 17:25:10.111    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:25:42.084    GameProcessLogic: Process exited.
+23.03. 17:25:42.122    GameProcessExited: Parsing statistics.
+23.03. 17:25:42.122    Parsing game statistics.
+23.03. 17:25:42.123    Attempting to read statistics from debug/debug.log
+23.03. 17:25:42.123    GameProcessExited: Adding match to statistics.
+23.03. 17:25:42.125    Skipping adding match to statistics because game only had one player.
+23.03. 17:25:43.089    Writing spawn.ini
+23.03. 17:25:43.091    Writing map.
+23.03. 17:25:43.091    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:25:43.100    About to launch main game executable.
+23.03. 17:25:43.105    Writing settings INI.
+23.03. 17:25:43.106    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:25:43.107    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:25:43.113    GameProcessLogic: Process started.
+23.03. 17:25:43.125    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:26:10.682    GameProcessLogic: Process exited.
+23.03. 17:26:10.761    GameProcessExited: Parsing statistics.
+23.03. 17:26:10.762    Parsing game statistics.
+23.03. 17:26:10.762    Attempting to read statistics from debug/debug.log
+23.03. 17:26:10.763    GameProcessExited: Adding match to statistics.
+23.03. 17:26:10.763    Skipping adding match to statistics because game only had one player.
+23.03. 17:26:23.087    Writing spawn.ini
+23.03. 17:26:23.088    Writing map.
+23.03. 17:26:23.088    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:26:23.098    About to launch main game executable.
+23.03. 17:26:23.104    Writing settings INI.
+23.03. 17:26:23.104    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:26:23.105    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:26:23.110    GameProcessLogic: Process started.
+23.03. 17:26:23.120    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:29:28.124    GameProcessLogic: Process exited.
+23.03. 17:29:28.334    GameProcessExited: Parsing statistics.
+23.03. 17:29:28.334    Parsing game statistics.
+23.03. 17:29:28.334    Attempting to read statistics from debug/debug.log
+23.03. 17:29:28.345    GameProcessExited: Adding match to statistics.
+23.03. 17:29:28.345    Skipping adding match to statistics because game only had one player.
+23.03. 17:30:35.717    Writing spawn.ini
+23.03. 17:30:35.718    Writing map.
+23.03. 17:30:35.719    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:30:35.729    About to launch main game executable.
+23.03. 17:30:35.733    Writing settings INI.
+23.03. 17:30:35.735    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:30:35.735    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:30:35.742    GameProcessLogic: Process started.
+23.03. 17:30:35.765    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:41:27.301    GameProcessLogic: Process exited.
+23.03. 17:41:27.357    GameProcessExited: Parsing statistics.
+23.03. 17:41:27.357    Parsing game statistics.
+23.03. 17:41:27.358    Attempting to read statistics from debug/debug.log
+23.03. 17:41:27.372    GameProcessExited: Adding match to statistics.
+23.03. 17:41:27.372    Skipping adding match to statistics because game only had one player.
+23.03. 17:41:45.740    Writing spawn.ini
+23.03. 17:41:45.742    Writing map.
+23.03. 17:41:45.742    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:41:45.752    About to launch main game executable.
+23.03. 17:41:45.757    Writing settings INI.
+23.03. 17:41:45.758    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:41:45.758    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:41:45.764    GameProcessLogic: Process started.
+23.03. 17:41:45.774    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:42:49.633    GameProcessLogic: Process exited.
+23.03. 17:42:49.783    GameProcessExited: Parsing statistics.
+23.03. 17:42:49.783    Parsing game statistics.
+23.03. 17:42:49.783    Attempting to read statistics from debug/debug.log
+23.03. 17:42:49.783    GameProcessExited: Adding match to statistics.
+23.03. 17:42:49.785    Skipping adding match to statistics because game only had one player.
+23.03. 17:43:13.126    Writing spawn.ini
+23.03. 17:43:13.128    Writing map.
+23.03. 17:43:13.128    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:43:13.138    About to launch main game executable.
+23.03. 17:43:13.142    Writing settings INI.
+23.03. 17:43:13.143    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:43:13.144    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:43:13.148    GameProcessLogic: Process started.
+23.03. 17:43:13.162    Waiting for qres.dat or syringe.exe to exit.
+23.03. 17:44:30.144    GameProcessLogic: Process exited.
+23.03. 17:44:30.203    GameProcessExited: Parsing statistics.
+23.03. 17:44:30.203    Parsing game statistics.
+23.03. 17:44:30.203    Attempting to read statistics from debug/debug.log
+23.03. 17:44:30.203    GameProcessExited: Adding match to statistics.
+23.03. 17:44:30.203    Skipping adding match to statistics because game only had one player.
+23.03. 17:50:22.099    Writing spawn.ini
+23.03. 17:50:22.100    Writing map.
+23.03. 17:50:22.100    Loading map INI from C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\Maps\Standard\xgrinder.map
+23.03. 17:50:22.111    About to launch main game executable.
+23.03. 17:50:22.115    Writing settings INI.
+23.03. 17:50:22.116    Launch executable: C:\Command and Conquer\Red Alert 2 and Yuri Revenge\Red Alert 2\Mod\Yuri Revenge Community Edition Redux\syringe.exe
+23.03. 17:50:22.116    Launch arguments:  "gamemd.exe" -SPAWN -LOG -CD
+23.03. 17:50:22.122    GameProcessLogic: Process started.
+23.03. 17:50:22.131    Waiting for qres.dat or syringe.exe to exit.
+23.03. 18:03:15.094    GameProcessLogic: Process exited.
+23.03. 18:03:15.128    GameProcessExited: Parsing statistics.
+23.03. 18:03:15.129    Parsing game statistics.
+23.03. 18:03:15.129    Attempting to read statistics from debug/debug.log
+23.03. 18:03:15.129    GameProcessExited: Adding match to statistics.
+23.03. 18:03:15.130    Skipping adding match to statistics because game only had one player.
+23.03. 21:02:13.065    Saving Client/friend_list.
+23.03. 21:02:13.066    Saving Client/ignore_list.
+23.03. 21:02:13.069    Saving Client/recent_list.
